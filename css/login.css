@@ -1,0 +1,182 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height:100%;
+}
+ul li{
+	list-style:none;
+}
+ol li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+#top{
+	height:80px;
+	width:1150px;
+	background:#fff;
+}
+#top a img{
+	float:left;
+    margin-top:10px;
+    margin-left:110px;
+}
+#top span{
+	float:left;
+	color:#3b3b3b;
+	font-size:20px;
+	margin-left:24px;
+	margin-top:20px;
+}
+#top .wei{
+    float:right;
+    margin-right:200px;
+    margin-top:55px;
+}
+#top .zi a{
+	float:right;
+	margin-right:-130px;
+	color:#999999;
+	font-size:12px;
+	margin-top:55px;
+}
+#top .zi a:hover{
+	color:red;
+	text-decoration:underline;
+}
+/*头部结束*/
+#center{
+	height:476px;
+	background:#0c0092;
+}
+#center .one img{
+	margin-left:100px;
+}
+#center .right{
+	width:347px;
+	height:362px;
+	background:#fff;
+	margin-left:720px;
+	margin-top:-436px;
+}
+#center .two{
+	width:340px;
+	height:56px;
+	line-height:56px;
+}
+.two span a{
+	color:#666;
+	font-size:17px;
+	margin-left:68px;
+}
+.two{
+	width:340px;
+	border-bottom:1px solid #f4f4f4;
+}
+#center .two p a:hover{
+	color:red;
+	text-decoration:underline;
+}
+#center .box input{
+    height:40px;
+    width:270px;
+    line-height:40px;
+    margin-top:20px;
+}
+#center .box img{
+	float:left;
+	margin-top:25px;
+	margin-left:16px;
+}
+#center .box span a{
+	margin-left:270px;
+	font-size:14px;
+	color:#666;
+}
+#center .box span a:hover{
+    color:red;
+    text-decoration:underline;
+}
+#center .box div{
+	height:35px;
+	width:306px;
+	background:red;
+	text-align:center;
+	line-height:35px;
+	margin-left:20px;
+	margin-top:10px;
+}
+#center .box div a{
+	color:white;
+	font-size:19px;
+	font-weight:bold;
+}
+#center .right .ul{
+	border-top:1px solid #f4f4f4;
+	margin-top:30px;	
+}
+#center .ul span a{
+	color:#666;
+	font-size:12px;
+} 
+#center .ul img{
+    margin-left:20px;
+    margin-top:23px;
+}
+#center .ul span a:hover{
+	color:red;
+	text-decoration:underline;
+}
+#center .ol img{
+	float:right;
+	margin-top:-20px;
+	margin-right:80px;
+}
+#center .ol p{
+	float:right;
+	margin-right:10px;
+	margin-top:-20px;
+	font-size:15px;
+	color:red;
+}
+#center .ol p a{
+	color:#666;
+
+}
+#center .ol p a:hover{
+	color:red;
+	text-decoration:underline;
+}
+#bottom span a{
+	font-size:15px;
+	border-right:1px solid #7d7db7;
+	padding-right:10px;
+	color:#666;
+}
+#bottom big a{
+	font-size:15px;
+	padding-right:10px;
+	color:#666;
+}
+#bottom .wenzi{
+	margin:22px auto auto 180px;
+}
+#bottom span a:hover{
+    color:red;
+	text-decoration:underline;
+}
+#bottom big a:hover{
+    color:red;
+	text-decoration:underline;
+}
+#bottom p{
+	font-size:8px;
+	color:#666666;
+}
+#bottom .p{
+	margin-left:477px;
+	margin-top:17px;
+}

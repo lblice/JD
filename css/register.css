@@ -1,0 +1,166 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height:100%;
+}
+ul li{
+	list-style:none;
+}
+ol li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+#top{
+	width:100%;
+	height:110px;
+	background:#fff;
+	border-bottom:1px solid #f1f1f1;
+	box-shadow:10px 10px 4px #f1f1f1;
+}
+#top img{
+	float:left;
+	width:177px;
+    margin-left:135px;
+    margin-top:20px;
+}
+#top a{
+	color:#b1b1b1;
+}
+#top b{
+	float:left;
+	padding-top:35px;
+	font-size:25px;
+	color:#333333;
+	margin-left:34px;
+}
+#top p{
+	float:right;
+	margin-right:197px;
+	margin-top:60px;
+	font-size:17px;
+	color:#999999;
+}
+#top div{
+	overflow:hidden;
+	float:right;
+	margin-right:-140px;
+	margin-top:60px;
+}
+#top div a:hover{
+	text-decoration:underline;
+}
+#left .one{
+	height:50px;
+	width:440px;
+	border:1px solid #dddddd;
+	margin-top:30px;
+	margin-left:280px;
+	line-height:50px;
+	color:#8c8c8c;
+	font-size:15px;
+}
+#left select{
+	border:none;
+	outline:none;
+}
+#left .one input{
+	border:none;
+	outline:none;
+	margin-left:30px;
+}
+#left .p{
+	height:50px;
+	width:440px;
+	background:#ee2222;
+	margin-top:30px;
+	margin-left:280px;
+	text-align:center;
+	line-height:50px;
+	color:#fff;
+	font-size:19px;
+}
+#left option{
+	color:#fff;
+	font-size:19px;
+}
+#left .one span{
+	margin-left:60px;
+}
+#left .one img{
+	margin-left:100px;
+	margin-top:7px;
+}
+#left input{
+	margin-left:280px;
+	margin-top:15px;
+	color:#63a4ff;
+}
+#left span a{
+	color:#338fff;
+}
+#right img{
+	float:right;
+	margin-right:400px;
+	margin-top:-570px;
+}
+#right span{
+	float:right;
+	margin-right:300px;
+	margin-top:-560px;
+	font-size:13px;
+}
+#right .q img{
+	float:right;
+	margin-right:400px;
+	margin-top:-520px;
+}
+#right .q span{
+	float:right;
+	margin-right:215px;
+	margin-top:-510px;
+	color:#666666;
+	font-size:13px;	
+}
+#right .wire{
+	border-top:1px solid #ddd;
+	margin-top:-535px;
+	margin-right:260px;
+	width:180px;
+	float:right;
+}
+#bottom{
+	border-top:1px solid #ddd;
+	margin-top:57px;
+}
+#bottom span a{
+	font-size:15px;
+	border-right:1px solid #7d7db7;
+	padding-right:10px;
+}
+#bottom .wenzi{
+	margin:22px auto auto 380px;	
+}
+#bottom a{
+	color:#b1b1b1;
+}
+#bottom big{
+	font-size:15px;
+	padding-right:10px;
+}
+#bottom span a:hover{
+    color:red;
+	text-decoration:underline;
+}
+#bottom p{
+	font-size:8px;
+	color:#666666;
+}
+#bottom .p{
+	margin-left:677px;
+	margin-top:10px;
+	margin-bottom:15px;
+}
